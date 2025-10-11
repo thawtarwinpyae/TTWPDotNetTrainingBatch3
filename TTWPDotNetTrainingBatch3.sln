@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.ConsoleApp", "TTWPDotNetTrainingBatch3.ConsoleApp\TTWPDotNetTrainingBatch3.ConsoleApp.csproj", "{3AD615EA-82D2-4A19-9A03-B3009336195D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.ConsoleApp2", "TTWPDotNetTrainingBatch3.ConsoleApp2\TTWPDotNetTrainingBatch3.ConsoleApp2.csproj", "{6D798041-CCC2-4CB5-AE75-7FC6E9CCB97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3AD615EA-82D2-4A19-9A03-B3009336195D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD615EA-82D2-4A19-9A03-B3009336195D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD615EA-82D2-4A19-9A03-B3009336195D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D798041-CCC2-4CB5-AE75-7FC6E9CCB97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D798041-CCC2-4CB5-AE75-7FC6E9CCB97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D798041-CCC2-4CB5-AE75-7FC6E9CCB97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D798041-CCC2-4CB5-AE75-7FC6E9CCB97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
