@@ -1,17 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Microsoft.Data.SqlClient;
-using System.Data;
-using TTWPDotNetTrainingBatch3.ConsoleApp2;
+using System.Net.Http.Headers;
+using TTWPDotNetTrainingBatch3.ConsoleApp3;
+
 
 Console.WriteLine("Hello, World!");
 
 ProductService productService = new ProductService();
-//productService.Read(); //F11 
+
+//productService.Read();
 //productService.Create();
 //productService.Update();
 //productService.Delete();
 
-Console.ReadLine();
-
-// CRUD
-
+SaleService saleService = new SaleService();
+//saleService.Read();
+//saleService.Create();
