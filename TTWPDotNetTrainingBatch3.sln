@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.ConsoleApp3", "TTWPDotNetTrainingBatch3.ConsoleApp3\TTWPDotNetTrainingBatch3.ConsoleApp3.csproj", "{2B8350ED-D0CE-465C-8327-F19BA60BE4B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.ConsoleApp3.Database", "TTWPDotNetTrainingBatch3.ConsoleApp3.Database\TTWPDotNetTrainingBatch3.ConsoleApp3.Database.csproj", "{336499CB-F5A2-4476-8450-EC616DB53C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2B8350ED-D0CE-465C-8327-F19BA60BE4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B8350ED-D0CE-465C-8327-F19BA60BE4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B8350ED-D0CE-465C-8327-F19BA60BE4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
