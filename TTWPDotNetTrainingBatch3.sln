@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.ConsoleApp3.Database", "TTWPDotNetTrainingBatch3.ConsoleApp3.Database\TTWPDotNetTrainingBatch3.ConsoleApp3.Database.csproj", "{336499CB-F5A2-4476-8450-EC616DB53C8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentCandidateConsoleApp.Database", "StudentCandidateConsoleApp.Database\StudentCandidateConsoleApp.Database.csproj", "{A49D9FE4-F18F-45A7-A4E0-039393FA2328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.StudentCandidateVotingConsoleApp", "TTWPDotNetTrainingBatch3.StudentCandidateVotingConsoleApp\TTWPDotNetTrainingBatch3.StudentCandidateVotingConsoleApp.csproj", "{4F964A84-8773-46B3-B035-7AE633AA29B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{336499CB-F5A2-4476-8450-EC616DB53C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49D9FE4-F18F-45A7-A4E0-039393FA2328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49D9FE4-F18F-45A7-A4E0-039393FA2328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49D9FE4-F18F-45A7-A4E0-039393FA2328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49D9FE4-F18F-45A7-A4E0-039393FA2328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F964A84-8773-46B3-B035-7AE633AA29B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F964A84-8773-46B3-B035-7AE633AA29B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F964A84-8773-46B3-B035-7AE633AA29B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F964A84-8773-46B3-B035-7AE633AA29B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
