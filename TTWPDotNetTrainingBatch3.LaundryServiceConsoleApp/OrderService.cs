@@ -223,14 +223,7 @@ VALUES (@orderId, @serviceId, @weight, @weight*(SELECT PricePerKg FROM [dbo].[Tb
             }
         }
 
-        public void CheckCancel() 
-        { 
 
-        }
-        public void Delete()
-        {
-            
-        }
     }
 
     public enum OrderStatus
