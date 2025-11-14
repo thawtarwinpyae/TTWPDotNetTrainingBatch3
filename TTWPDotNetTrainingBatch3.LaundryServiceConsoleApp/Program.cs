@@ -10,6 +10,10 @@ OrderService orderService = new OrderService();
 //orderService.Update();
 
 CustomerEFCoreService customerEFCoreService = new CustomerEFCoreService();
+LaundryServiceEFCoreService laundryServiceEFCoreService = new LaundryServiceEFCoreService();
 
-customerEFCoreService.Read();
+//customerEFCoreService.Read();
 //customerEFCoreService.Update();
+
+laundryServiceEFCoreService.Delete();
+
