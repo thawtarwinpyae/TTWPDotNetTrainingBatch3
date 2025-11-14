@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWPDotNetTrainingBatch3.LaundryServiceConsoleApp", "TTWPDotNetTrainingBatch3.LaundryServiceConsoleApp\TTWPDotNetTrainingBatch3.LaundryServiceConsoleApp.csproj", "{FEEE09AE-A2AC-4414-9FC1-9D5A90A3EBE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryServiceConsoleApp.Database", "LaundryServiceConsoleApp.Database\LaundryServiceConsoleApp.Database.csproj", "{C0464B85-3709-4828-B1D7-54CFF06CD9E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FEEE09AE-A2AC-4414-9FC1-9D5A90A3EBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEEE09AE-A2AC-4414-9FC1-9D5A90A3EBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEE09AE-A2AC-4414-9FC1-9D5A90A3EBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0464B85-3709-4828-B1D7-54CFF06CD9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0464B85-3709-4828-B1D7-54CFF06CD9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0464B85-3709-4828-B1D7-54CFF06CD9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0464B85-3709-4828-B1D7-54CFF06CD9E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

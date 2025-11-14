@@ -7,4 +7,9 @@ LaundryService laundryservice = new LaundryService();
 OrderService orderService = new OrderService();
 //customerService.Delete();
 
-orderService.Update();
+//orderService.Update();
+
+CustomerEFCoreService customerEFCoreService = new CustomerEFCoreService();
+
+customerEFCoreService.Read();
+//customerEFCoreService.Update();
