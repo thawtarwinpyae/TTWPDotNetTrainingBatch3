@@ -35,6 +35,7 @@ namespace TTWPDotNetTrainingBatch3.LaundryServiceConsoleApp
             foreach (var od in orderDetails)
             {
                 Console.WriteLine($"{od.OrderId} | {od.CustomerName} | {od.ServiceName} | {od.Weight}kg | {od.OrderDate} | {od.Status}");
+
             }
         }
         public void Create()
